@@ -1,2 +1,3 @@
 # tcp-library-implementation
-Exercise implementing a simulation of the tcp socket library
+A network protocol programming exercise. Implementing a simulation of the tcp socket library specified in RFC793 
+
