@@ -8,7 +8,7 @@ DESCRIPTION: Implements tcp socket library, simulation
 NOTES: 
 - header file(common.h)included below and its functions, 
 as well as the server and client used to test this library, 
-are not by this author. 
+are by different authors, shared with special license. 
 - See README for details and links
 ****************************************************************/
 
