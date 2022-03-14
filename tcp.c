@@ -934,7 +934,12 @@ int tcp_shutdown (int sockfd, int how)
         tcp_close(sockfd);
 	}
 	
-    return 0;  /* return 0 for success
-	//-1 for failure */
+    return 0;  //return 0 for success	
 }
-
+/* Notes on what is missing:
+- all functions should return a value for failure
+- header checksum computation
+- reader pthreading
+- complete windowing and packet retransmission
+- ...
+*/
