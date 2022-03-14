@@ -5,7 +5,7 @@ This project implements the TCP connection state machine in the diagram below, r
 
   ```
                                             +---------+ ---------\         active OPEN
-                                            |   CLOSED |            \      -----------
+                                            |  CLOSED |            \       -----------
                                             +---------+<---------\    \    create TCB
                                                |     ^              \   \   snd SYN
                                   passive OPEN |     | CLOSE          \   \
