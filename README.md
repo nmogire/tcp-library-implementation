@@ -1,7 +1,6 @@
 # tcp-library-implementation
-A network protocol programming exercise. Implementing a simulation of the tcp socket library specified in RFC793 
-
-This project implements the TCP connection state machine in the diagram below, reproduced from rfc793:
+A network protocol programming exercise. Implementing a simulation of the tcp socket library specified in RFC793. 
+This project is an implementation of the TCP connection state machine in the diagram below, reproduced from rfc793:
 
   ```
                                             +---------+ ---------\         active OPEN
