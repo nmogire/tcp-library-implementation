@@ -51,4 +51,4 @@ This project implements the TCP connection state machine in the diagram below, r
                                               +---------+                   +---------+
 
 ```
-RFC 793 [https://datatracker.ietf.org/doc/html/rfc793#section-3.2]
+Ref: [https://datatracker.ietf.org/doc/html/rfc793#section-3.2]
